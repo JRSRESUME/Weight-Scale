@@ -1,0 +1,7 @@
+C:\Users\jigglypuff\documents\visual studio 2010\Projects\weightscale\weightscale\bin\Debug\weightscale.exe
+C:\Users\jigglypuff\documents\visual studio 2010\Projects\weightscale\weightscale\bin\Debug\weightscale.pdb
+C:\Users\jigglypuff\documents\visual studio 2010\Projects\weightscale\weightscale\obj\x86\Debug\weightscale.Form1.resources
+C:\Users\jigglypuff\documents\visual studio 2010\Projects\weightscale\weightscale\obj\x86\Debug\weightscale.Properties.Resources.resources
+C:\Users\jigglypuff\documents\visual studio 2010\Projects\weightscale\weightscale\obj\x86\Debug\weightscale.csproj.GenerateResource.Cache
+C:\Users\jigglypuff\documents\visual studio 2010\Projects\weightscale\weightscale\obj\x86\Debug\weightscale.exe
+C:\Users\jigglypuff\documents\visual studio 2010\Projects\weightscale\weightscale\obj\x86\Debug\weightscale.pdb

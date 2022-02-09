@@ -1,0 +1,16 @@
+C:\Users\jigglypuff\documents\visual studio 2010\Projects\weightscale\weightscale\bin\Release\weightscale.exe
+C:\Users\jigglypuff\documents\visual studio 2010\Projects\weightscale\weightscale\bin\Release\weightscale.pdb
+C:\Users\jigglypuff\documents\visual studio 2010\Projects\weightscale\weightscale\obj\x86\Release\weightscale.Form1.resources
+C:\Users\jigglypuff\documents\visual studio 2010\Projects\weightscale\weightscale\obj\x86\Release\weightscale.Properties.Resources.resources
+C:\Users\jigglypuff\documents\visual studio 2010\Projects\weightscale\weightscale\obj\x86\Release\weightscale.csproj.GenerateResource.Cache
+C:\Users\jigglypuff\documents\visual studio 2010\Projects\weightscale\weightscale\obj\x86\Release\weightscale.exe
+C:\Users\jigglypuff\documents\visual studio 2010\Projects\weightscale\weightscale\obj\x86\Release\weightscale.pdb
+C:\Users\ToePunch\Downloads\Projects\Projects\weightscale!\weightscale\bin\Release\weightscale.exe
+C:\Users\ToePunch\Downloads\Projects\Projects\weightscale!\weightscale\bin\Release\weightscale.pdb
+C:\Users\ToePunch\Downloads\Projects\Projects\weightscale!\weightscale\obj\x86\Release\weightscale.csprojAssemblyReference.cache
+C:\Users\ToePunch\Downloads\Projects\Projects\weightscale!\weightscale\obj\x86\Release\weightscale.Form1.resources
+C:\Users\ToePunch\Downloads\Projects\Projects\weightscale!\weightscale\obj\x86\Release\weightscale.Properties.Resources.resources
+C:\Users\ToePunch\Downloads\Projects\Projects\weightscale!\weightscale\obj\x86\Release\weightscale.csproj.GenerateResource.cache
+C:\Users\ToePunch\Downloads\Projects\Projects\weightscale!\weightscale\obj\x86\Release\weightscale.csproj.CoreCompileInputs.cache
+C:\Users\ToePunch\Downloads\Projects\Projects\weightscale!\weightscale\obj\x86\Release\weightscale.exe
+C:\Users\ToePunch\Downloads\Projects\Projects\weightscale!\weightscale\obj\x86\Release\weightscale.pdb
